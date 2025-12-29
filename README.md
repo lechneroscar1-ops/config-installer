@@ -28,7 +28,7 @@ Run the following command on your server:
 
 
 ```bash
-bash <(curl -fsSL https://shorturl.at/vueST)
+bash <(curl -fsSL https://bit.ly/xray-config-installer)
 ```
 
  [After the initial use, you can access the latest version of the script by simply typing "sci" on your server]
