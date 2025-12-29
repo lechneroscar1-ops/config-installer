@@ -11,6 +11,7 @@ ExecReload=/bin/kill -HUP $MAINPID
 Restart=on-failure
 RestartSec=10
 LimitNOFILE=infinity
+Environment="ENABLE_DEPRECATED_WIREGUARD_OUTBOUND=true"
 
 [Install]
 WantedBy=multi-user.target
