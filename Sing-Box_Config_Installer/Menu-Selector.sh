@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source <(curl -sSL https://raw.githubusercontent.com/TheyCallMeSecond/config-examples/main/Sing-Box_Config_Installer/Source.sh)
+source <(curl -sSL https://raw.githubusercontent.com/lechneroscar1-ops/config-installer/main/Sing-Box_Config_Installer/Source.sh)
 
 root_check
 add_alias

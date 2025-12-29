@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source <(curl -sSL https://raw.githubusercontent.com/TheyCallMeSecond/config-examples/main/Sing-Box_Config_Installer/Source.sh)
+source <(curl -sSL https://raw.githubusercontent.com/lechneroscar1-ops/config-installer/main/Sing-Box_Config_Installer/Source.sh)
 
 while true; do
     user_choice=$(whiptail --clear --title "Main Menu" --menu "Please select a protocol:" 25 50 15 \
