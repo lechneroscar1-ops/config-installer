@@ -1,13 +1,13 @@
 <div align="center">
 
-[![banner](https://github.com/TheyCallMeSecond/config-examples/blob/main/img/SCI.png?raw=true "banner")](https://github.com/TheyCallMeSecond/config-examples/blob/main/img/SCI.png?raw=true "banner")
+[![banner](https://github.com/lechneroscar1-ops/config-installer/blob/main/img/SCI.png?raw=true "banner")](https://github.com/lechneroscar1-ops/config-installer/blob/main/img/SCI.png?raw=true "banner")
 
 
 Automatic Installation and Configuration of WARP, ShadowTLS, WebSocket, gRPC, Reality, Naive, TUIC, Hysteria2
 
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/TheyCallMeSecond/config-examples?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/TheyCallMeSecond/config-examples?style=for-the-badge&color=b4befe) ![GitHub forks](https://img.shields.io/github/forks/TheyCallMeSecond/config-examples?style=for-the-badge&color=cba6f7)
+![GitHub Repo stars](https://img.shields.io/github/stars/lechneroscar1-ops/config-installer?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/lechneroscar1-ops/config-installer?style=for-the-badge&color=b4befe) ![GitHub forks](https://img.shields.io/github/forks/lechneroscar1-ops/config-installer?style=for-the-badge&color=cba6f7)
 </div>
 
 ------------
@@ -36,7 +36,7 @@ bash <(curl -fsSL https://shorturl.at/vueST)
 
  <div align="center">
  
-[![bash screen](https://github.com/TheyCallMeSecond/config-examples/blob/main/img/29.png?raw=true "bash screen")](https://github.com/TheyCallMeSecond/config-examples/blob/main/img/29.png?raw=true "bash screen")
+[![bash screen](https://github.com/lechneroscar1-ops/config-installer/blob/main/img/29.png?raw=true "bash screen")](https://github.com/lechneroscar1-ops/config-installer/blob/main/img/29.png?raw=true "bash screen")
 
 </div>
 
@@ -98,3 +98,5 @@ bash <(curl -fsSL https://shorturl.at/vueST)
   - [hawshemi](https://github.com/hawshemi/Linux-Optimizer) - *For server optimizer*
 
   - [misaka](https://replit.com/@misaka-blog/warpgo-profile-generator) - *For warp config and key generator*
+
+  - [TheyCallMeSecond](https://github.com/TheyCallMeSecond) - *For base project*
